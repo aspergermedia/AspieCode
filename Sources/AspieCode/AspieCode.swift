@@ -3,6 +3,6 @@
     Asperger Media Pty Ltd © 2020
  */
 
-public func aspiecode(txt) {
-    
+final class AspieCode {
+    let text = "Hello, World"
 }
