@@ -1,3 +1,3 @@
 # AspieCode
 
-A description of this package.
+AspieCode is an easier way to create HTML in user posts

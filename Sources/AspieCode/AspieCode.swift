@@ -1,3 +1,8 @@
-struct AspieCode {
-    var text = "Hello, World!"
+/*
+    AspieCode Text Markup
+    Asperger Media Pty Ltd © 2020
+ */
+
+public func aspiecode(txt) {
+    
 }
